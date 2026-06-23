@@ -50,3 +50,5 @@ iput2024-kofukada,
 iput2024-kofukada, develop branch
 iput2024-kofukada,
 iput2024-kofukada, conflict-test branch
+
+portichihara: ワーク07 Pull Request のための変更です。
