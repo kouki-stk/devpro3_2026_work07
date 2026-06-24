@@ -50,4 +50,7 @@ iput2024-kofukada,
 iput2024-kofukada, develop branch
 iput2024-kofukada,
 iput2024-kofukada, conflict-test branch
+portichihara: ワーク07 Pull Request のための変更です。
+iput takahasi, 確認
+iput2024-fujita,日本対スウェーデンは2-1で勝ち
 Iput2026-zaki, 警視庁、目grep警部だ。
